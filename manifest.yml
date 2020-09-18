@@ -1,4 +1,4 @@
  applications:
- - name: cloudnativeapp901
+ - name: Im Prem
    random-route: true
    memory: 128M
